@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "Smart personal expense and budget tracker with category analytics, spending trends, and transaction management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
